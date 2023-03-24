@@ -1,0 +1,8 @@
+C:\Users\DANIEL\Downloads\ClasesYHerencia\ClasesYHerencia\bin\Debug\ClasesYHerencia.exe.config
+C:\Users\DANIEL\Downloads\ClasesYHerencia\ClasesYHerencia\bin\Debug\ClasesYHerencia.exe
+C:\Users\DANIEL\Downloads\ClasesYHerencia\ClasesYHerencia\bin\Debug\ClasesYHerencia.pdb
+C:\Users\DANIEL\Downloads\ClasesYHerencia\ClasesYHerencia\obj\Debug\ClasesYHerencia.csproj.AssemblyReference.cache
+C:\Users\DANIEL\Downloads\ClasesYHerencia\ClasesYHerencia\obj\Debug\ClasesYHerencia.csproj.SuggestedBindingRedirects.cache
+C:\Users\DANIEL\Downloads\ClasesYHerencia\ClasesYHerencia\obj\Debug\ClasesYHerencia.csproj.CoreCompileInputs.cache
+C:\Users\DANIEL\Downloads\ClasesYHerencia\ClasesYHerencia\obj\Debug\ClasesYHerencia.exe
+C:\Users\DANIEL\Downloads\ClasesYHerencia\ClasesYHerencia\obj\Debug\ClasesYHerencia.pdb
